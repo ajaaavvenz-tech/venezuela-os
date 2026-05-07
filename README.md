@@ -49,6 +49,9 @@ cd venezuela-os
 python venezuela_os.py
 ```
 
+
+# UPDATE TOOL
+( git pull origin main ) 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 👑 DEVELOPER
