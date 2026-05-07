@@ -49,9 +49,21 @@ cd venezuela-os
 python venezuela_os.py
 ```
 
+━━━━━━━━━━━━━━━━━━━━━━
+        🔄 UPDATE TOOL
+━━━━━━━━━━━━━━━━━━━━━━
 
-# UPDATE TOOL
-( git pull origin main ) 
+📌 Gunakan perintah ini untuk update versi terbaru:
+
+```bash
+git pull origin main
+```
+
+━━━━━━━━━━━━━━━━━━━━━━
+⚡ NOTE:
+- Jalankan di folder repo
+- Pastikan sudah `git clone` sebelumnya
+━━━━━━━━━━━━━━━━━━━━━━
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 👑 DEVELOPER
