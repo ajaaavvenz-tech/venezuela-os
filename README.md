@@ -1,27 +1,60 @@
-# Venezuela OS
+██╗   ██╗██╗██████╗ ███████╗██████╗ 
+██║   ██║██║██╔══██╗██╔════╝██╔══██╗
+██║   ██║██║██████╔╝█████╗  ██████╔╝
+╚██╗ ██╔╝██║██╔═══╝ ██╔══╝  ██╔══██╗
+ ╚████╔╝ ██║██║     ███████╗██║  ██║
+  ╚═══╝  ╚═╝╚═╝     ╚══════╝╚═╝  ╚═╝
 
-Tool Python berbasis Termux.
+╔══════════════════════════════════╗
+║            VIPER V7.3            ║
+║      TOOLS BY AJAAAVVENZ         ║
+╚══════════════════════════════════╝
 
-## TOOLS VIPER BY VENZ
-Ikuti langkah di bawah untuk install dan menjalankan tools.
+> Advanced Python Toolkit For Termux
 
-## Install
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚡ FEATURES
+- Hacker Style Terminal UI
+- Multi Tools Dashboard
+- Network Utilities
+- System Information
+- Fast & Lightweight
+- Custom Viper Interface
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📥 INSTALLATION
+
 ```bash
-pkg update && pkg upgrade
-pkg install git python
+pkg update && pkg upgrade -y
+pkg install git python -y
 ```
 
-## Clone Repository
+📂 CLONE REPOSITORY
+
 ```bash
 git clone https://github.com/ajaaavvenz-tech/venezuela-os.git
 ```
 
-## Masuk Folder
+📁 ENTER DIRECTORY
+
 ```bash
 cd venezuela-os
 ```
 
-## Run Tools
+🚀 RUN TOOL
+
 ```bash
 python venezuela_os.py
 ```
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+👑 DEVELOPER
+AJAAAVVENZ-TECH
+
+⭐ SUPPORT THIS PROJECT
+Give this repository a Star on GitHub!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
