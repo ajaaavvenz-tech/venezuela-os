@@ -1,19 +1,27 @@
 # Venezuela OS
 
-Tool Python berbasis Termux. 
-##TOOLS VIPER BY VENZ##
- #IKUTI MENU DI BAWAH📌#
+Tool Python berbasis Termux.
+
+## TOOLS VIPER BY VENZ
+Ikuti langkah di bawah untuk install dan menjalankan tools.
 
 ## Install
+```bash
 pkg update && pkg upgrade
--
-pkg install
+pkg install git python
+```
 
-## Clone
+## Clone Repository
+```bash
 git clone https://github.com/ajaaavvenz-tech/venezuela-os.git
+```
 
-## Run
+## Masuk Folder
+```bash
 cd venezuela-os
+```
+
+## Run Tools
+```bash
 python venezuela_os.py
-
-
+```
